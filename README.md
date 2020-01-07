@@ -30,9 +30,11 @@ editar el perfil  para realizar este cambio. La imagen de perfil tambien se podr
 editar por lo que se colocara otro boton para realizar esto.
 
 **Editar Perfil**
+
 En esta pagina se podra editar la descripcion y el correo de la cuenta 
 
 **Editar imagen perfil**
+
 Muestra todas las imagnes subidas por el usuario tendra la opcion de poder elegir
 una de las imagnes para poder colocarla como imagen de perfil.
 
@@ -44,16 +46,19 @@ Si el usuario hace click en  una imagen selecionada llevara al usuario
 a la pagina de ver imagen  
 
 **Ver Imagen**
+
 Aqui el usuario podra ver la descripcion de la imagen, su nombre ,fecha de subida
 y la imagen.Cuando el usuario haga click en la imagen la imagen se expandera y se 
 colocara adelantede de la pagina y la opocara a la pagina. Tambien tendra dos 
 opciones que son editar imagen y eleminar imagen.
 
 **Editar imagen**
+
 En esta pagina se podra editar el nombre y descripcion de una imagen ademas de mostrar
 la imagen.
 
 **Subir Imagen**
+
 En esta pagina el usario subira una imagen y tendra unas opciones el 
 cual podra colocar el nombre de la imagen y una descripcion.
 
