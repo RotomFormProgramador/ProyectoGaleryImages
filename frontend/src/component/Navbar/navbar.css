@@ -1,9 +1,31 @@
-ul {
-    list-style-type: none;
-    background-color: rgb(201, 77, 77);
-    display: inline;
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.navbar {
+    margin: 0px;
+
 }
 
-li {
- display: inline;
+.nveg {
+    display: flex;
+    margin: 0;
+    padding: 0px;
+    background-color: #59a780
+}
+
+.nveg  li {
+    list-style-type: none;
+    padding-right: 10px;
+
+}
+
+.nveg li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.nveg li a:hover {
+    background-color: #a4e79b
 }
