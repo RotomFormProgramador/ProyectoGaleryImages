@@ -1,31 +1,25 @@
-body {
-    padding: 0px;
-    margin: 0px;
-}
-.navbar {
-    margin: 0px;
-
-}
-
-.nveg {
-    display: flex;
+* {
     margin: 0;
-    padding: 0px;
-    background-color: #59a780
+    padding:0;
 }
 
-.nveg  li {
-    list-style-type: none;
-    padding-right: 10px;
-
+.navIni {
+    background-color: black;
+    padding: 10px 0px;
 }
 
-.nveg li a {
+.navIni a {
+    padding: 10px 30px 10px;
     text-decoration: none;
     color: white;
     font-weight: bold;
+    } 
+
+.navIni a:hover {
+    background-color: rgb(190, 31, 3);
 }
 
-.nveg li a:hover {
-    background-color: #a4e79b
+.Logo {
+    width:  20px;
+    height: 20px;
 }
