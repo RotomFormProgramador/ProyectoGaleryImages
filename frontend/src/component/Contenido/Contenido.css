@@ -1,0 +1,25 @@
+
+
+.cont-1{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(255, 235, 239);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-2{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(255, 61, 61);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}

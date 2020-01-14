@@ -5,6 +5,10 @@ import {
     Route,
 } from 'react-router-dom'
 
+import  "../src/App.css"
+
+import Contenido from "./component/Contenido/Contenido"
+
 import Navbar from "./component/Navbar/Navbar"
 
 function App() {
@@ -15,6 +19,7 @@ function App() {
             <Switch>
                 <Route exact path={"/"} >
                     <Navbar/>
+                    <Contenido/>
                 </Route>
             </Switch>
 
